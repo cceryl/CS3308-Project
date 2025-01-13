@@ -1,9 +1,9 @@
 [submodule "Heuristic"]
 	path = Heuristic
-	url = .\\Heuristic\\
+	url = https://github.com/cceryl/Heuristic
 [submodule "PPO"]
 	path = PPO
-	url = .\\PPO\\
+	url = https://github.com/cceryl/PPO
 [submodule "Ecommerce"]
 	path = Ecommerce
-	url = .\\Ecommerce\\
+	url = https://github.com/cceryl/Ecommerce
