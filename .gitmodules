@@ -1,0 +1,9 @@
+[submodule "Heuristic"]
+	path = Heuristic
+	url = .\\Heuristic\\
+[submodule "PPO"]
+	path = PPO
+	url = .\\PPO\\
+[submodule "Ecommerce"]
+	path = Ecommerce
+	url = .\\Ecommerce\\
